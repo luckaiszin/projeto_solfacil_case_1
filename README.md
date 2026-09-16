@@ -29,5 +29,5 @@ Crie uma nova coluna chamada Decada que classifique cada jogo como sendo dos "An
 Crie um gráfico de barras mostrando as vendas globais totais para os 5 gêneros mais vendidos.
 Crie um gráfico de linhas que mostre o total de jogos lançados por ano.
 
-####   Conclusão:
+##  Conclusão:
 Escreva um parágrafo curto resumindo suas principais descobertas.
