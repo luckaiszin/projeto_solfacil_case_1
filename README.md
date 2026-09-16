@@ -16,21 +16,18 @@ Usando a biblioteca Pandas em Python, você deve analisar um dataset fictício (
 
 ##  Sua Tarefa
 
-#   Carregamento e Limpeza:
+###   Carregamento e Limpeza:
 Carregue o arquivo vgsales.csv em um DataFrame do Pandas.
 Verifique se existem valores faltantes na coluna Ano e remova as linhas correspondentes.
 
-#   Análise Descritiva:
+###   Análise Descritiva:
 Qual é o gênero de jogo que mais vendeu globalmente? (Some as vendas de todos os jogos do mesmo gênero).
 Qual plataforma (console) teve o maior número de jogos lançados?
 Crie uma nova coluna chamada Decada que classifique cada jogo como sendo dos "Anos 90" (1990-1999), "Anos 2000" (2000-2009) ou "Anos 2010" (2010-2016).
 
-#   Visualização de Dados:
+###   Visualização de Dados:
 Crie um gráfico de barras mostrando as vendas globais totais para os 5 gêneros mais vendidos.
 Crie um gráfico de linhas que mostre o total de jogos lançados por ano.
 
-#   Conclusão:
+####   Conclusão:
 Escreva um parágrafo curto resumindo suas principais descobertas.
-
-#   Entrega:
-Suba o seu código para um repositório público no GitHub. Certifique-se de não versionar dados sensíveis nem chaves de API.
