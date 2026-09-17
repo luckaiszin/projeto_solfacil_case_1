@@ -30,4 +30,5 @@ Crie um gráfico de barras mostrando as vendas globais totais para os 5 gêneros
 Crie um gráfico de linhas que mostre o total de jogos lançados por ano.
 
 ##  Conclusão:
-Escreva um parágrafo curto resumindo suas principais descobertas.
+
+Dados os insights adquiridos ao longo do case é possível inferir que jogos de ação têm uma preferência maior pelo público e que há uma quantidade maior de jogos para PC, uma vez que é um dispositivo/console mais popular, multi-uso e adotado pelo público em geral. O ano que mais lançaram jogos foi 2017.
